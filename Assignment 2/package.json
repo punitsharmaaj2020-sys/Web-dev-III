@@ -1,0 +1,11 @@
+{
+  "name": "assignment-2",
+  "version": "1.0.0",
+  "description": "Lab Assignment 2 — Web Dev III (Node.js & Express Backend), Unit 2.",
+  "author": "PUNIT",
+  "type": "commonjs",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
