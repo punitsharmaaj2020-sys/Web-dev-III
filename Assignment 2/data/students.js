@@ -4,9 +4,11 @@
 // everything in this array and mutate it directly.
 
 let students = [
-  { id: 1, name: "", course: "BCA", age: 20 },
+  { id: 1, name: "punit", course: "Btech", age: 19 },
   { id: 2, name: "Priya", course: "BTech", age: 21 },
   { id: 3, name: "Amit", course: "BCA", age: 19 },
+  { id: 4, name: "akshat", course: "Btech", age: 19 }
+ 
 ];
 
 module.exports = students;
